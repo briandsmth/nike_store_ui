@@ -1,5 +1,7 @@
 # nike_shoes_store_ui
 
+![](https://github.com/briandsmth/nike_store_ui/blob/main/nike%20gif.gif)
+
 A new Flutter project.
 
 ## Getting Started
